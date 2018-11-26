@@ -1,0 +1,22 @@
+Lista objektów:
+
+* Pole			4x4	[*]
+* Pole Tory		4x8	[*]
+* Pole Ruchome		4x8	[*]
+* Rampa			4x8	[*]
+* Tory			4x4	[*]
+* Tory Zakret		4x4	[*]
+
+* Sciana Tory2		4x4	[*]
+* Sicana Tory2Zakret	4x4	[*]
+* Sciana Tory2Wyjscie	4x4	[*]
+* Sciana			[*]
+* Sciana Krawedz		[*]
+* Sciana Rampa			[*]
+
+* Klucz				[*]
+* Moneta			[*]
+* Owocki (5)			[*][*][*][*][*]
+* Diament			[*]
+* Klepsydra			[*]
+* Wyjscie			[*]
